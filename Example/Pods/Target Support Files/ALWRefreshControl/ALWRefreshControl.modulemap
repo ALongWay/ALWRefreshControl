@@ -1,0 +1,6 @@
+framework module ALWRefreshControl {
+  umbrella header "ALWRefreshControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
